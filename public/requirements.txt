@@ -1,0 +1,5 @@
+# used 'https://api.imgflip.com/get_memes' for develop meme's generator application.
+
+
+# 1 - call the data and show in IU.
+# 2 - create function with ramdon match
